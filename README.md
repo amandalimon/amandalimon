@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 - 👋🏼 Hi, I’m Amanda Limón
-- 🌱 I’m currently learning React.js and frameworks
+- 🌱 I’m currently learning React.js
 - 🔭 Looking for opportunities as Frontend Developer Junior
 - 🐈‍⬛ Former veterinarian
 
