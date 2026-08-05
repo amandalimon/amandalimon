@@ -1,38 +1,5 @@
 # 🍋 Amanda Limón
 
-Frontend Developer with 1+ year of experience, specializing in modern web technologies and user-centered design. Passionate about clean interfaces, performance, and continuous learning through exploration of new tools and frameworks.
+Frontend developer based in Monterrey, México. 2+ years building interfaces for real-world products. Passionate about clean interfaces, performance, and continuous learning through exploration of new tools and frameworks.
 
-<p><sup><em>Languages</sup></sup><br>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-</p>
-
-<p><sup><em>Frameworks & Libraries</em></sup><br>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt&logoColor=white" />
-  <img src="https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-42307D?style=for-the-badge&logo=zod&logoColor=white" />
-</p>
-
-<p><sup><em>State Management</em></sup><br>
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinia-FFE873?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Zustand-F58E4F?style=for-the-badge&logoColor=white" />
-</p>
-
-<p><sup><em>Styling</em></sup><br>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white" />
-</p>
-
----
-
-<div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; width: 100%;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=amandalimon&theme=nord&hide_border=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandalimon&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="322" />
- </div>
- 
-
+<p><sup><em>Languages</em></sup><br> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" /> <img src="https://img.shields.io/badge/GLSL-%235586A4.svg?style=for-the-badge&logo=opengl&logoColor=white" /> </p> <p><sup><em>Frameworks</em></sup><br> <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" /> <img src="https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" /> </p> <p><sup><em>State, Forms &amp; Data</em></sup><br> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black" /> <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" /> <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" /> <img src="https://img.shields.io/badge/VeeValidate-4FC08D?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/TanStack%20Table-FF4154?style=for-the-badge&logo=tanstack&logoColor=white" /> </p> <p><sup><em>Motion &amp; Graphics</em></sup><br> <img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=gsap&logoColor=black" /> <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=threedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React%20Three%20Fiber-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" /> <img src="https://img.shields.io/badge/Lenis-F1E2CE?style=for-the-badge&logoColor=black" /> </p> <p><sup><em>Styling &amp; Tooling</em></sup><br> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white" /> <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" /> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /> </p>
